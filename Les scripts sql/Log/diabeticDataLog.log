@@ -1,0 +1,3610 @@
+
+
+ Fichier LOG ouvert à 01/30/21 01:22:06
+
+Définitions de champ pour la table DATASET
+  Format d'enregistrement DELIMITED, délimité par 
+
+  Les données du fichier ont le même format endian que la plate-forme
+  Les lignes avec tous les champs null sont acceptées
+
+  Champs dans la source de données : 
+
+    ENCOUNTER_ID                    CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    PATIENT_NBR                     CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    RACE                            CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    GENDER                          CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    AGE                             CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    WEIGHT                          CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    ADMISSION_TYPE_ID               CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    DISCHARGE_DISPOSITION_ID        CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    ADMISSION_SOURCE_ID             CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    TIME_IN_HOSPITAL                CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    PAYER_CODE                      CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    MEDICAL_SPECIALTY               CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    NUM_LAB_PROCEDURES              CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    NUM_PROCEDURES                  CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    NUM_MEDICATIONS                 CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    NUMBER_OUTPATIENT               CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    NUMBER_EMERGENCY                CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    NUMBER_INPATIENT                CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    DIAG_1                          CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    DIAG_2                          CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    DIAG_3                          CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    NUMBER_DIAGNOSES                CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    MAX_GLU_SERUM                   CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    A1CRESULT                       CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    METFORMIN                       CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    REPAGLINIDE                     CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    NATEGLINIDE                     CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    CHLORPROPAMIDE                  CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    GLIMEPIRIDE                     CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    ACETOHEXAMIDE                   CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    GLIPIZIDE                       CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    GLYBURIDE                       CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    TOLBUTAMIDE                     CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    PIOGLITAZONE                    CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    ROSIGLITAZONE                   CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    ACARBOSE                        CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    MIGLITOL                        CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    TROGLITAZONE                    CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    TOLAZAMIDE                      CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    EXAMIDE                         CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    CITOGLIPTON                     CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    INSULIN                         CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    GLYBURIDE_METFORMIN             CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    GLIPIZIDE_METFORMIN             CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    GLIMEPIRIDE_PIOGLITAZONE        CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    METFORMIN_ROSIGLITAZONE         CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    METFORMIN_PIOGLITAZONE          CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    CHANGE                          CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    DIABETESMED                     CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    READMITTED                      CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+
+
+ Fichier LOG ouvert à 01/30/21 01:27:30
+
+Définitions de champ pour la table DATASET
+  Format d'enregistrement DELIMITED, délimité par 
+
+  Les données du fichier ont le même format endian que la plate-forme
+  Les lignes avec tous les champs null sont acceptées
+
+  Champs dans la source de données : 
+
+    ENCOUNTER_ID                    CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    PATIENT_NBR                     CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    RACE                            CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    GENDER                          CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    AGE                             CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    WEIGHT                          CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    ADMISSION_TYPE_ID               CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    DISCHARGE_DISPOSITION_ID        CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    ADMISSION_SOURCE_ID             CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    TIME_IN_HOSPITAL                CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    PAYER_CODE                      CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    MEDICAL_SPECIALTY               CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    NUM_LAB_PROCEDURES              CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    NUM_PROCEDURES                  CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    NUM_MEDICATIONS                 CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    NUMBER_OUTPATIENT               CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    NUMBER_EMERGENCY                CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    NUMBER_INPATIENT                CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    DIAG_1                          CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    DIAG_2                          CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    DIAG_3                          CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    NUMBER_DIAGNOSES                CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    MAX_GLU_SERUM                   CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    A1CRESULT                       CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    METFORMIN                       CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    REPAGLINIDE                     CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    NATEGLINIDE                     CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    CHLORPROPAMIDE                  CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    GLIMEPIRIDE                     CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    ACETOHEXAMIDE                   CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    GLIPIZIDE                       CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    GLYBURIDE                       CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    TOLBUTAMIDE                     CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    PIOGLITAZONE                    CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    ROSIGLITAZONE                   CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    ACARBOSE                        CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    MIGLITOL                        CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    TROGLITAZONE                    CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    TOLAZAMIDE                      CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    EXAMIDE                         CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    CITOGLIPTON                     CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    INSULIN                         CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    GLYBURIDE_METFORMIN             CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    GLIPIZIDE_METFORMIN             CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    GLIMEPIRIDE_PIOGLITAZONE        CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    METFORMIN_ROSIGLITAZONE         CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    METFORMIN_PIOGLITAZONE          CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    CHANGE                          CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    DIABETESMED                     CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    READMITTED                      CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+
+
+ Fichier LOG ouvert à 01/30/21 01:52:55
+
+Définitions de champ pour la table DATASET
+  Format d'enregistrement DELIMITED, délimité par 
+
+  Les données du fichier ont le même format endian que la plate-forme
+  Les lignes avec tous les champs null sont acceptées
+
+  Champs dans la source de données : 
+
+    ENCOUNTER_ID                    CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    PATIENT_NBR                     CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    RACE                            CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    GENDER                          CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    AGE                             CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    WEIGHT                          CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    ADMISSION_TYPE_ID               CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    DISCHARGE_DISPOSITION_ID        CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    ADMISSION_SOURCE_ID             CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    TIME_IN_HOSPITAL                CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    PAYER_CODE                      CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    MEDICAL_SPECIALTY               CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    NUM_LAB_PROCEDURES              CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    NUM_PROCEDURES                  CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    NUM_MEDICATIONS                 CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    NUMBER_OUTPATIENT               CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    NUMBER_EMERGENCY                CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    NUMBER_INPATIENT                CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    DIAG_1                          CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    DIAG_2                          CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    DIAG_3                          CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    NUMBER_DIAGNOSES                CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    MAX_GLU_SERUM                   CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    A1CRESULT                       CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    METFORMIN                       CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    REPAGLINIDE                     CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    NATEGLINIDE                     CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    CHLORPROPAMIDE                  CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    GLIMEPIRIDE                     CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    ACETOHEXAMIDE                   CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    GLIPIZIDE                       CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    GLYBURIDE                       CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    TOLBUTAMIDE                     CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    PIOGLITAZONE                    CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    ROSIGLITAZONE                   CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    ACARBOSE                        CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    MIGLITOL                        CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    TROGLITAZONE                    CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    TOLAZAMIDE                      CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    EXAMIDE                         CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    CITOGLIPTON                     CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    INSULIN                         CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    GLYBURIDE_METFORMIN             CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    GLIPIZIDE_METFORMIN             CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    GLIMEPIRIDE_PIOGLITAZONE        CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    METFORMIN_ROSIGLITAZONE         CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    METFORMIN_PIOGLITAZONE          CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    CHANGE                          CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    DIABETESMED                     CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    READMITTED                      CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+
+
+ LOG file opened at 01/30/21 10:35:35
+
+Field Definitions for table DATASET
+  Record format DELIMITED, delimited by 
+
+  Data in file has same endianness as the platform
+  Rows with all null fields are accepted
+
+  Fields in Data Source: 
+
+    ENCOUNTER_ID                    CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    PATIENT_NBR                     CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    RACE                            CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    GENDER                          CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    AGE                             CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    WEIGHT                          CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    ADMISSION_TYPE_ID               CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    DISCHARGE_DISPOSITION_ID        CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    ADMISSION_SOURCE_ID             CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    TIME_IN_HOSPITAL                CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    PAYER_CODE                      CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    MEDICAL_SPECIALTY               CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    NUM_LAB_PROCEDURES              CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    NUM_PROCEDURES                  CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    NUM_MEDICATIONS                 CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    NUMBER_OUTPATIENT               CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    NUMBER_EMERGENCY                CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    NUMBER_INPATIENT                CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    DIAG_1                          CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    DIAG_2                          CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    DIAG_3                          CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    NUMBER_DIAGNOSES                CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    MAX_GLU_SERUM                   CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    A1CRESULT                       CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    METFORMIN                       CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    REPAGLINIDE                     CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    NATEGLINIDE                     CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    CHLORPROPAMIDE                  CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    GLIMEPIRIDE                     CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    ACETOHEXAMIDE                   CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    GLIPIZIDE                       CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    GLYBURIDE                       CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    TOLBUTAMIDE                     CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    PIOGLITAZONE                    CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    ROSIGLITAZONE                   CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    ACARBOSE                        CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    MIGLITOL                        CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    TROGLITAZONE                    CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    TOLAZAMIDE                      CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    EXAMIDE                         CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    CITOGLIPTON                     CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    INSULIN                         CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    GLYBURIDE_METFORMIN             CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    GLIPIZIDE_METFORMIN             CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    GLIMEPIRIDE_PIOGLITAZONE        CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    METFORMIN_ROSIGLITAZONE         CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    METFORMIN_PIOGLITAZONE          CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    CHANGE                          CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    DIABETESMED                     CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    READMITTED                      CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+
+
+ LOG file opened at 01/30/21 10:35:38
+
+Field Definitions for table DATASET
+  Record format DELIMITED, delimited by 
+
+  Data in file has same endianness as the platform
+  Rows with all null fields are accepted
+
+  Fields in Data Source: 
+
+    ENCOUNTER_ID                    CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    PATIENT_NBR                     CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    RACE                            CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    GENDER                          CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    AGE                             CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    WEIGHT                          CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    ADMISSION_TYPE_ID               CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    DISCHARGE_DISPOSITION_ID        CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    ADMISSION_SOURCE_ID             CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    TIME_IN_HOSPITAL                CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    PAYER_CODE                      CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    MEDICAL_SPECIALTY               CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    NUM_LAB_PROCEDURES              CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    NUM_PROCEDURES                  CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    NUM_MEDICATIONS                 CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    NUMBER_OUTPATIENT               CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    NUMBER_EMERGENCY                CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    NUMBER_INPATIENT                CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    DIAG_1                          CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    DIAG_2                          CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    DIAG_3                          CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    NUMBER_DIAGNOSES                CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    MAX_GLU_SERUM                   CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    A1CRESULT                       CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    METFORMIN                       CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    REPAGLINIDE                     CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    NATEGLINIDE                     CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    CHLORPROPAMIDE                  CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    GLIMEPIRIDE                     CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    ACETOHEXAMIDE                   CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    GLIPIZIDE                       CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    GLYBURIDE                       CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    TOLBUTAMIDE                     CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    PIOGLITAZONE                    CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    ROSIGLITAZONE                   CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    ACARBOSE                        CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    MIGLITOL                        CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    TROGLITAZONE                    CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    TOLAZAMIDE                      CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    EXAMIDE                         CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    CITOGLIPTON                     CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    INSULIN                         CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    GLYBURIDE_METFORMIN             CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    GLIPIZIDE_METFORMIN             CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    GLIMEPIRIDE_PIOGLITAZONE        CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    METFORMIN_ROSIGLITAZONE         CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    METFORMIN_PIOGLITAZONE          CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    CHANGE                          CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    DIABETESMED                     CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    READMITTED                      CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+
+  Column Transformations
+    ROWID                         
+
+
+ Fichier LOG ouvert à 02/06/21 17:35:32
+
+Définitions de champ pour la table DATASET
+  Format d'enregistrement DELIMITED, délimité par 
+
+  Les données du fichier ont le même format endian que la plate-forme
+  Les lignes avec tous les champs null sont acceptées
+
+  Champs dans la source de données : 
+
+    ENCOUNTER_ID                    CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    PATIENT_NBR                     CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    RACE                            CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    GENDER                          CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    AGE                             CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    WEIGHT                          CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    ADMISSION_TYPE_ID               CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    DISCHARGE_DISPOSITION_ID        CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    ADMISSION_SOURCE_ID             CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    TIME_IN_HOSPITAL                CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    PAYER_CODE                      CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    MEDICAL_SPECIALTY               CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    NUM_LAB_PROCEDURES              CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    NUM_PROCEDURES                  CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    NUM_MEDICATIONS                 CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    NUMBER_OUTPATIENT               CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    NUMBER_EMERGENCY                CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    NUMBER_INPATIENT                CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    DIAG_1                          CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    DIAG_2                          CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    DIAG_3                          CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    NUMBER_DIAGNOSES                CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    MAX_GLU_SERUM                   CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    A1CRESULT                       CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    METFORMIN                       CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    REPAGLINIDE                     CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    NATEGLINIDE                     CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    CHLORPROPAMIDE                  CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    GLIMEPIRIDE                     CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    ACETOHEXAMIDE                   CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    GLIPIZIDE                       CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    GLYBURIDE                       CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    TOLBUTAMIDE                     CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    PIOGLITAZONE                    CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    ROSIGLITAZONE                   CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    ACARBOSE                        CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    MIGLITOL                        CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    TROGLITAZONE                    CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    TOLAZAMIDE                      CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    EXAMIDE                         CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    CITOGLIPTON                     CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    INSULIN                         CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    GLYBURIDE_METFORMIN             CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    GLIPIZIDE_METFORMIN             CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    GLIMEPIRIDE_PIOGLITAZONE        CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    METFORMIN_ROSIGLITAZONE         CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    METFORMIN_PIOGLITAZONE          CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    CHANGE                          CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    DIABETESMED                     CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    READMITTED                      CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+
+
+ Fichier LOG ouvert à 02/06/21 18:26:51
+
+Définitions de champ pour la table DATASET
+  Format d'enregistrement DELIMITED, délimité par 
+
+  Les données du fichier ont le même format endian que la plate-forme
+  Les lignes avec tous les champs null sont acceptées
+
+  Champs dans la source de données : 
+
+    ENCOUNTER_ID                    CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    PATIENT_NBR                     CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    RACE                            CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    GENDER                          CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    AGE                             CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    WEIGHT                          CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    ADMISSION_TYPE_ID               CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    DISCHARGE_DISPOSITION_ID        CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    ADMISSION_SOURCE_ID             CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    TIME_IN_HOSPITAL                CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    PAYER_CODE                      CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    MEDICAL_SPECIALTY               CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    NUM_LAB_PROCEDURES              CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    NUM_PROCEDURES                  CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    NUM_MEDICATIONS                 CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    NUMBER_OUTPATIENT               CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    NUMBER_EMERGENCY                CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    NUMBER_INPATIENT                CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    DIAG_1                          CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    DIAG_2                          CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    DIAG_3                          CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    NUMBER_DIAGNOSES                CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    MAX_GLU_SERUM                   CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    A1CRESULT                       CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    METFORMIN                       CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    REPAGLINIDE                     CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    NATEGLINIDE                     CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    CHLORPROPAMIDE                  CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    GLIMEPIRIDE                     CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    ACETOHEXAMIDE                   CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    GLIPIZIDE                       CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    GLYBURIDE                       CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    TOLBUTAMIDE                     CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    PIOGLITAZONE                    CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    ROSIGLITAZONE                   CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    ACARBOSE                        CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    MIGLITOL                        CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    TROGLITAZONE                    CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    TOLAZAMIDE                      CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    EXAMIDE                         CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    CITOGLIPTON                     CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    INSULIN                         CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    GLYBURIDE_METFORMIN             CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    GLIPIZIDE_METFORMIN             CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    GLIMEPIRIDE_PIOGLITAZONE        CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    METFORMIN_ROSIGLITAZONE         CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    METFORMIN_PIOGLITAZONE          CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    CHANGE                          CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    DIABETESMED                     CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    READMITTED                      CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+
+
+ Fichier LOG ouvert à 02/06/21 18:29:31
+
+Définitions de champ pour la table DATASET
+  Format d'enregistrement DELIMITED, délimité par 
+
+  Les données du fichier ont le même format endian que la plate-forme
+  Les lignes avec tous les champs null sont acceptées
+
+  Champs dans la source de données : 
+
+    ENCOUNTER_ID                    CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    PATIENT_NBR                     CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    RACE                            CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    GENDER                          CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    AGE                             CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    WEIGHT                          CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    ADMISSION_TYPE_ID               CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    DISCHARGE_DISPOSITION_ID        CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    ADMISSION_SOURCE_ID             CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    TIME_IN_HOSPITAL                CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    PAYER_CODE                      CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    MEDICAL_SPECIALTY               CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    NUM_LAB_PROCEDURES              CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    NUM_PROCEDURES                  CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    NUM_MEDICATIONS                 CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    NUMBER_OUTPATIENT               CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    NUMBER_EMERGENCY                CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    NUMBER_INPATIENT                CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    DIAG_1                          CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    DIAG_2                          CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    DIAG_3                          CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    NUMBER_DIAGNOSES                CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    MAX_GLU_SERUM                   CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    A1CRESULT                       CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    METFORMIN                       CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    REPAGLINIDE                     CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    NATEGLINIDE                     CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    CHLORPROPAMIDE                  CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    GLIMEPIRIDE                     CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    ACETOHEXAMIDE                   CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    GLIPIZIDE                       CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    GLYBURIDE                       CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    TOLBUTAMIDE                     CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    PIOGLITAZONE                    CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    ROSIGLITAZONE                   CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    ACARBOSE                        CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    MIGLITOL                        CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    TROGLITAZONE                    CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    TOLAZAMIDE                      CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    EXAMIDE                         CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    CITOGLIPTON                     CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    INSULIN                         CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    GLYBURIDE_METFORMIN             CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    GLIPIZIDE_METFORMIN             CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    GLIMEPIRIDE_PIOGLITAZONE        CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    METFORMIN_ROSIGLITAZONE         CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    METFORMIN_PIOGLITAZONE          CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    CHANGE                          CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    DIABETESMED                     CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    READMITTED                      CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+
+
+ Fichier LOG ouvert à 02/06/21 18:49:07
+
+Définitions de champ pour la table DATASET
+  Format d'enregistrement DELIMITED, délimité par 
+
+  Les données du fichier ont le même format endian que la plate-forme
+  Les lignes avec tous les champs null sont acceptées
+
+  Champs dans la source de données : 
+
+    ENCOUNTER_ID                    CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    PATIENT_NBR                     CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    RACE                            CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    GENDER                          CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    AGE                             CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    WEIGHT                          CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    ADMISSION_TYPE_ID               CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    DISCHARGE_DISPOSITION_ID        CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    ADMISSION_SOURCE_ID             CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    TIME_IN_HOSPITAL                CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    PAYER_CODE                      CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    MEDICAL_SPECIALTY               CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    NUM_LAB_PROCEDURES              CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    NUM_PROCEDURES                  CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    NUM_MEDICATIONS                 CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    NUMBER_OUTPATIENT               CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    NUMBER_EMERGENCY                CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    NUMBER_INPATIENT                CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    DIAG_1                          CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    DIAG_2                          CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    DIAG_3                          CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    NUMBER_DIAGNOSES                CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    MAX_GLU_SERUM                   CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    A1CRESULT                       CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    METFORMIN                       CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    REPAGLINIDE                     CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    NATEGLINIDE                     CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    CHLORPROPAMIDE                  CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    GLIMEPIRIDE                     CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    ACETOHEXAMIDE                   CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    GLIPIZIDE                       CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    GLYBURIDE                       CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    TOLBUTAMIDE                     CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    PIOGLITAZONE                    CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    ROSIGLITAZONE                   CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    ACARBOSE                        CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    MIGLITOL                        CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    TROGLITAZONE                    CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    TOLAZAMIDE                      CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    EXAMIDE                         CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    CITOGLIPTON                     CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    INSULIN                         CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    GLYBURIDE_METFORMIN             CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    GLIPIZIDE_METFORMIN             CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    GLIMEPIRIDE_PIOGLITAZONE        CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    METFORMIN_ROSIGLITAZONE         CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    METFORMIN_PIOGLITAZONE          CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    CHANGE                          CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    DIABETESMED                     CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    READMITTED                      CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+
+
+ Fichier LOG ouvert à 02/06/21 18:49:54
+
+Définitions de champ pour la table DATASET
+  Format d'enregistrement DELIMITED, délimité par 
+
+  Les données du fichier ont le même format endian que la plate-forme
+  Les lignes avec tous les champs null sont acceptées
+
+  Champs dans la source de données : 
+
+    ENCOUNTER_ID                    CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    PATIENT_NBR                     CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    RACE                            CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    GENDER                          CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    AGE                             CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    WEIGHT                          CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    ADMISSION_TYPE_ID               CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    DISCHARGE_DISPOSITION_ID        CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    ADMISSION_SOURCE_ID             CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    TIME_IN_HOSPITAL                CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    PAYER_CODE                      CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    MEDICAL_SPECIALTY               CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    NUM_LAB_PROCEDURES              CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    NUM_PROCEDURES                  CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    NUM_MEDICATIONS                 CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    NUMBER_OUTPATIENT               CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    NUMBER_EMERGENCY                CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    NUMBER_INPATIENT                CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    DIAG_1                          CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    DIAG_2                          CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    DIAG_3                          CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    NUMBER_DIAGNOSES                CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    MAX_GLU_SERUM                   CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    A1CRESULT                       CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    METFORMIN                       CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    REPAGLINIDE                     CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    NATEGLINIDE                     CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    CHLORPROPAMIDE                  CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    GLIMEPIRIDE                     CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    ACETOHEXAMIDE                   CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    GLIPIZIDE                       CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    GLYBURIDE                       CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    TOLBUTAMIDE                     CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    PIOGLITAZONE                    CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    ROSIGLITAZONE                   CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    ACARBOSE                        CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    MIGLITOL                        CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    TROGLITAZONE                    CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    TOLAZAMIDE                      CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    EXAMIDE                         CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    CITOGLIPTON                     CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    INSULIN                         CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    GLYBURIDE_METFORMIN             CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    GLIPIZIDE_METFORMIN             CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    GLIMEPIRIDE_PIOGLITAZONE        CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    METFORMIN_ROSIGLITAZONE         CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    METFORMIN_PIOGLITAZONE          CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    CHANGE                          CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    DIABETESMED                     CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    READMITTED                      CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+
+
+ Fichier LOG ouvert à 02/06/21 19:22:56
+
+Définitions de champ pour la table DATASET
+  Format d'enregistrement DELIMITED, délimité par 
+
+  Les données du fichier ont le même format endian que la plate-forme
+  Les lignes avec tous les champs null sont acceptées
+
+  Champs dans la source de données : 
+
+    ENCOUNTER_ID                    CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    PATIENT_NBR                     CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    RACE                            CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    GENDER                          CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    AGE                             CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    WEIGHT                          CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    ADMISSION_TYPE_ID               CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    DISCHARGE_DISPOSITION_ID        CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    ADMISSION_SOURCE_ID             CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    TIME_IN_HOSPITAL                CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    PAYER_CODE                      CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    MEDICAL_SPECIALTY               CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    NUM_LAB_PROCEDURES              CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    NUM_PROCEDURES                  CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    NUM_MEDICATIONS                 CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    NUMBER_OUTPATIENT               CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    NUMBER_EMERGENCY                CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    NUMBER_INPATIENT                CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    DIAG_1                          CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    DIAG_2                          CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    DIAG_3                          CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    NUMBER_DIAGNOSES                CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    MAX_GLU_SERUM                   CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    A1CRESULT                       CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    METFORMIN                       CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    REPAGLINIDE                     CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    NATEGLINIDE                     CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    CHLORPROPAMIDE                  CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    GLIMEPIRIDE                     CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    ACETOHEXAMIDE                   CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    GLIPIZIDE                       CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    GLYBURIDE                       CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    TOLBUTAMIDE                     CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    PIOGLITAZONE                    CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    ROSIGLITAZONE                   CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    ACARBOSE                        CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    MIGLITOL                        CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    TROGLITAZONE                    CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    TOLAZAMIDE                      CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    EXAMIDE                         CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    CITOGLIPTON                     CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    INSULIN                         CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    GLYBURIDE_METFORMIN             CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    GLIPIZIDE_METFORMIN             CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    GLIMEPIRIDE_PIOGLITAZONE        CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    METFORMIN_ROSIGLITAZONE         CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    METFORMIN_PIOGLITAZONE          CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    CHANGE                          CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    DIABETESMED                     CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    READMITTED                      CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+
+
+ Fichier LOG ouvert à 02/06/21 19:23:20
+
+Définitions de champ pour la table DATASET
+  Format d'enregistrement DELIMITED, délimité par 
+
+  Les données du fichier ont le même format endian que la plate-forme
+  Les lignes avec tous les champs null sont acceptées
+
+  Champs dans la source de données : 
+
+    ENCOUNTER_ID                    CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    PATIENT_NBR                     CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    RACE                            CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    GENDER                          CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    AGE                             CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    WEIGHT                          CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    ADMISSION_TYPE_ID               CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    DISCHARGE_DISPOSITION_ID        CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    ADMISSION_SOURCE_ID             CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    TIME_IN_HOSPITAL                CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    PAYER_CODE                      CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    MEDICAL_SPECIALTY               CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    NUM_LAB_PROCEDURES              CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    NUM_PROCEDURES                  CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    NUM_MEDICATIONS                 CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    NUMBER_OUTPATIENT               CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    NUMBER_EMERGENCY                CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    NUMBER_INPATIENT                CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    DIAG_1                          CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    DIAG_2                          CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    DIAG_3                          CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    NUMBER_DIAGNOSES                CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    MAX_GLU_SERUM                   CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    A1CRESULT                       CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    METFORMIN                       CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    REPAGLINIDE                     CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    NATEGLINIDE                     CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    CHLORPROPAMIDE                  CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    GLIMEPIRIDE                     CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    ACETOHEXAMIDE                   CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    GLIPIZIDE                       CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    GLYBURIDE                       CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    TOLBUTAMIDE                     CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    PIOGLITAZONE                    CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    ROSIGLITAZONE                   CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    ACARBOSE                        CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    MIGLITOL                        CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    TROGLITAZONE                    CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    TOLAZAMIDE                      CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    EXAMIDE                         CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    CITOGLIPTON                     CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    INSULIN                         CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    GLYBURIDE_METFORMIN             CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    GLIPIZIDE_METFORMIN             CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    GLIMEPIRIDE_PIOGLITAZONE        CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    METFORMIN_ROSIGLITAZONE         CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    METFORMIN_PIOGLITAZONE          CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    CHANGE                          CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    DIABETESMED                     CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    READMITTED                      CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+
+
+ Fichier LOG ouvert à 02/06/21 19:28:21
+
+Définitions de champ pour la table DATASET
+  Format d'enregistrement DELIMITED, délimité par 
+
+  Les données du fichier ont le même format endian que la plate-forme
+  Les lignes avec tous les champs null sont acceptées
+
+  Champs dans la source de données : 
+
+    ENCOUNTER_ID                    CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    PATIENT_NBR                     CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    RACE                            CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    GENDER                          CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    AGE                             CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    WEIGHT                          CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    ADMISSION_TYPE_ID               CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    DISCHARGE_DISPOSITION_ID        CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    ADMISSION_SOURCE_ID             CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    TIME_IN_HOSPITAL                CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    PAYER_CODE                      CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    MEDICAL_SPECIALTY               CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    NUM_LAB_PROCEDURES              CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    NUM_PROCEDURES                  CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    NUM_MEDICATIONS                 CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    NUMBER_OUTPATIENT               CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    NUMBER_EMERGENCY                CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    NUMBER_INPATIENT                CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    DIAG_1                          CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    DIAG_2                          CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    DIAG_3                          CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    NUMBER_DIAGNOSES                CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    MAX_GLU_SERUM                   CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    A1CRESULT                       CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    METFORMIN                       CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    REPAGLINIDE                     CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    NATEGLINIDE                     CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    CHLORPROPAMIDE                  CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    GLIMEPIRIDE                     CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    ACETOHEXAMIDE                   CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    GLIPIZIDE                       CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    GLYBURIDE                       CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    TOLBUTAMIDE                     CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    PIOGLITAZONE                    CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    ROSIGLITAZONE                   CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    ACARBOSE                        CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    MIGLITOL                        CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    TROGLITAZONE                    CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    TOLAZAMIDE                      CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    EXAMIDE                         CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    CITOGLIPTON                     CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    INSULIN                         CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    GLYBURIDE_METFORMIN             CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    GLIPIZIDE_METFORMIN             CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    GLIMEPIRIDE_PIOGLITAZONE        CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    METFORMIN_ROSIGLITAZONE         CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    METFORMIN_PIOGLITAZONE          CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    CHANGE                          CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    DIABETESMED                     CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    READMITTED                      CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+
+
+ Fichier LOG ouvert à 02/06/21 19:29:57
+
+Définitions de champ pour la table DATASET
+  Format d'enregistrement DELIMITED, délimité par 
+
+  Les données du fichier ont le même format endian que la plate-forme
+  Les lignes avec tous les champs null sont acceptées
+
+  Champs dans la source de données : 
+
+    ENCOUNTER_ID                    CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    PATIENT_NBR                     CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    RACE                            CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    GENDER                          CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    AGE                             CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    WEIGHT                          CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    ADMISSION_TYPE_ID               CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    DISCHARGE_DISPOSITION_ID        CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    ADMISSION_SOURCE_ID             CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    TIME_IN_HOSPITAL                CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    PAYER_CODE                      CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    MEDICAL_SPECIALTY               CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    NUM_LAB_PROCEDURES              CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    NUM_PROCEDURES                  CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    NUM_MEDICATIONS                 CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    NUMBER_OUTPATIENT               CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    NUMBER_EMERGENCY                CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    NUMBER_INPATIENT                CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    DIAG_1                          CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    DIAG_2                          CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    DIAG_3                          CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    NUMBER_DIAGNOSES                CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    MAX_GLU_SERUM                   CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    A1CRESULT                       CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    METFORMIN                       CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    REPAGLINIDE                     CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    NATEGLINIDE                     CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    CHLORPROPAMIDE                  CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    GLIMEPIRIDE                     CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    ACETOHEXAMIDE                   CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    GLIPIZIDE                       CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    GLYBURIDE                       CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    TOLBUTAMIDE                     CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    PIOGLITAZONE                    CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    ROSIGLITAZONE                   CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    ACARBOSE                        CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    MIGLITOL                        CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    TROGLITAZONE                    CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    TOLAZAMIDE                      CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    EXAMIDE                         CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    CITOGLIPTON                     CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    INSULIN                         CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    GLYBURIDE_METFORMIN             CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    GLIPIZIDE_METFORMIN             CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    GLIMEPIRIDE_PIOGLITAZONE        CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    METFORMIN_ROSIGLITAZONE         CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    METFORMIN_PIOGLITAZONE          CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    CHANGE                          CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    DIABETESMED                     CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    READMITTED                      CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+
+
+ Fichier LOG ouvert à 02/06/21 19:30:32
+
+Définitions de champ pour la table DATASET
+  Format d'enregistrement DELIMITED, délimité par 
+
+  Les données du fichier ont le même format endian que la plate-forme
+  Les lignes avec tous les champs null sont acceptées
+
+  Champs dans la source de données : 
+
+    ENCOUNTER_ID                    CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    PATIENT_NBR                     CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    RACE                            CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    GENDER                          CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    AGE                             CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    WEIGHT                          CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    ADMISSION_TYPE_ID               CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    DISCHARGE_DISPOSITION_ID        CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    ADMISSION_SOURCE_ID             CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    TIME_IN_HOSPITAL                CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    PAYER_CODE                      CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    MEDICAL_SPECIALTY               CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    NUM_LAB_PROCEDURES              CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    NUM_PROCEDURES                  CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    NUM_MEDICATIONS                 CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    NUMBER_OUTPATIENT               CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    NUMBER_EMERGENCY                CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    NUMBER_INPATIENT                CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    DIAG_1                          CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    DIAG_2                          CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    DIAG_3                          CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    NUMBER_DIAGNOSES                CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    MAX_GLU_SERUM                   CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    A1CRESULT                       CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    METFORMIN                       CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    REPAGLINIDE                     CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    NATEGLINIDE                     CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    CHLORPROPAMIDE                  CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    GLIMEPIRIDE                     CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    ACETOHEXAMIDE                   CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    GLIPIZIDE                       CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    GLYBURIDE                       CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    TOLBUTAMIDE                     CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    PIOGLITAZONE                    CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    ROSIGLITAZONE                   CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    ACARBOSE                        CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    MIGLITOL                        CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    TROGLITAZONE                    CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    TOLAZAMIDE                      CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    EXAMIDE                         CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    CITOGLIPTON                     CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    INSULIN                         CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    GLYBURIDE_METFORMIN             CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    GLIPIZIDE_METFORMIN             CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    GLIMEPIRIDE_PIOGLITAZONE        CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    METFORMIN_ROSIGLITAZONE         CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    METFORMIN_PIOGLITAZONE          CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    CHANGE                          CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    DIABETESMED                     CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    READMITTED                      CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+
+
+ LOG file opened at 02/06/21 20:55:30
+
+Field Definitions for table DATASET
+  Record format DELIMITED, delimited by 
+
+  Data in file has same endianness as the platform
+  Rows with all null fields are accepted
+
+  Fields in Data Source: 
+
+    ENCOUNTER_ID                    CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    PATIENT_NBR                     CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    RACE                            CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    GENDER                          CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    AGE                             CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    WEIGHT                          CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    ADMISSION_TYPE_ID               CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    DISCHARGE_DISPOSITION_ID        CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    ADMISSION_SOURCE_ID             CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    TIME_IN_HOSPITAL                CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    PAYER_CODE                      CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    MEDICAL_SPECIALTY               CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    NUM_LAB_PROCEDURES              CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    NUM_PROCEDURES                  CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    NUM_MEDICATIONS                 CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    NUMBER_OUTPATIENT               CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    NUMBER_EMERGENCY                CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    NUMBER_INPATIENT                CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    DIAG_1                          CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    DIAG_2                          CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    DIAG_3                          CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    NUMBER_DIAGNOSES                CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    MAX_GLU_SERUM                   CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    A1CRESULT                       CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    METFORMIN                       CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    REPAGLINIDE                     CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    NATEGLINIDE                     CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    CHLORPROPAMIDE                  CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    GLIMEPIRIDE                     CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    ACETOHEXAMIDE                   CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    GLIPIZIDE                       CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    GLYBURIDE                       CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    TOLBUTAMIDE                     CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    PIOGLITAZONE                    CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    ROSIGLITAZONE                   CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    ACARBOSE                        CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    MIGLITOL                        CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    TROGLITAZONE                    CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    TOLAZAMIDE                      CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    EXAMIDE                         CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    CITOGLIPTON                     CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    INSULIN                         CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    GLYBURIDE_METFORMIN             CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    GLIPIZIDE_METFORMIN             CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    GLIMEPIRIDE_PIOGLITAZONE        CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    METFORMIN_ROSIGLITAZONE         CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    METFORMIN_PIOGLITAZONE          CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    CHANGE                          CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    DIABETESMED                     CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    READMITTED                      CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+
+
+ LOG file opened at 02/06/21 20:55:34
+
+Field Definitions for table DATASET
+  Record format DELIMITED, delimited by 
+
+  Data in file has same endianness as the platform
+  Rows with all null fields are accepted
+
+  Fields in Data Source: 
+
+    ENCOUNTER_ID                    CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    PATIENT_NBR                     CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    RACE                            CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    GENDER                          CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    AGE                             CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    WEIGHT                          CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    ADMISSION_TYPE_ID               CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    DISCHARGE_DISPOSITION_ID        CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    ADMISSION_SOURCE_ID             CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    TIME_IN_HOSPITAL                CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    PAYER_CODE                      CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    MEDICAL_SPECIALTY               CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    NUM_LAB_PROCEDURES              CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    NUM_PROCEDURES                  CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    NUM_MEDICATIONS                 CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    NUMBER_OUTPATIENT               CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    NUMBER_EMERGENCY                CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    NUMBER_INPATIENT                CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    DIAG_1                          CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    DIAG_2                          CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    DIAG_3                          CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    NUMBER_DIAGNOSES                CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    MAX_GLU_SERUM                   CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    A1CRESULT                       CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    METFORMIN                       CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    REPAGLINIDE                     CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    NATEGLINIDE                     CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    CHLORPROPAMIDE                  CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    GLIMEPIRIDE                     CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    ACETOHEXAMIDE                   CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    GLIPIZIDE                       CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    GLYBURIDE                       CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    TOLBUTAMIDE                     CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    PIOGLITAZONE                    CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    ROSIGLITAZONE                   CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    ACARBOSE                        CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    MIGLITOL                        CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    TROGLITAZONE                    CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    TOLAZAMIDE                      CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    EXAMIDE                         CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    CITOGLIPTON                     CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    INSULIN                         CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    GLYBURIDE_METFORMIN             CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    GLIPIZIDE_METFORMIN             CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    GLIMEPIRIDE_PIOGLITAZONE        CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    METFORMIN_ROSIGLITAZONE         CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    METFORMIN_PIOGLITAZONE          CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    CHANGE                          CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    DIABETESMED                     CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    READMITTED                      CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+
+  Column Transformations
+    ROWID                         

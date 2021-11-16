@@ -1,0 +1,800 @@
+
+
+ Fichier LOG ouvert à 01/30/21 01:32:16
+
+Définitions de champ pour la table ICD9_INDEX
+  Format d'enregistrement DELIMITED, délimité par 
+
+  Les données du fichier ont le même format endian que la plate-forme
+  Les lignes avec tous les champs null sont acceptées
+
+  Champs dans la source de données : 
+
+    ID                              CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    DISEASE                         CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    CODE_LETTER                     CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    CODE_FROM                       CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    CODE_TO                         CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+
+
+ Fichier LOG ouvert à 01/30/21 01:34:47
+
+Définitions de champ pour la table ICD9_INDEX
+  Format d'enregistrement DELIMITED, délimité par 
+
+  Les données du fichier ont le même format endian que la plate-forme
+  Les lignes avec tous les champs null sont acceptées
+
+  Champs dans la source de données : 
+
+    ID                              CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    DISEASE                         CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    CODE_LETTER                     CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    CODE_FROM                       CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    CODE_TO                         CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+
+
+ Fichier LOG ouvert à 01/30/21 01:34:47
+
+Définitions de champ pour la table ICD9_INDEX
+  Format d'enregistrement DELIMITED, délimité par 
+
+  Les données du fichier ont le même format endian que la plate-forme
+  Les lignes avec tous les champs null sont acceptées
+
+  Champs dans la source de données : 
+
+    ID                              CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    DISEASE                         CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    CODE_LETTER                     CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    CODE_FROM                       CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    CODE_TO                         CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+
+
+ Fichier LOG ouvert à 01/30/21 01:34:47
+
+Définitions de champ pour la table ICD9_INDEX
+  Format d'enregistrement DELIMITED, délimité par 
+
+  Les données du fichier ont le même format endian que la plate-forme
+  Les lignes avec tous les champs null sont acceptées
+
+  Champs dans la source de données : 
+
+    ID                              CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    DISEASE                         CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    CODE_LETTER                     CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    CODE_FROM                       CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    CODE_TO                         CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+
+
+ Fichier LOG ouvert à 01/30/21 01:34:47
+
+Définitions de champ pour la table ICD9_INDEX
+  Format d'enregistrement DELIMITED, délimité par 
+
+  Les données du fichier ont le même format endian que la plate-forme
+  Les lignes avec tous les champs null sont acceptées
+
+  Champs dans la source de données : 
+
+    ID                              CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    DISEASE                         CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    CODE_LETTER                     CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    CODE_FROM                       CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    CODE_TO                         CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+
+
+ Fichier LOG ouvert à 01/30/21 01:34:47
+
+Définitions de champ pour la table ICD9_INDEX
+  Format d'enregistrement DELIMITED, délimité par 
+
+  Les données du fichier ont le même format endian que la plate-forme
+  Les lignes avec tous les champs null sont acceptées
+
+  Champs dans la source de données : 
+
+    ID                              CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    DISEASE                         CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    CODE_LETTER                     CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    CODE_FROM                       CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    CODE_TO                         CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+
+
+ Fichier LOG ouvert à 01/30/21 01:34:47
+
+Définitions de champ pour la table ICD9_INDEX
+  Format d'enregistrement DELIMITED, délimité par 
+
+  Les données du fichier ont le même format endian que la plate-forme
+  Les lignes avec tous les champs null sont acceptées
+
+  Champs dans la source de données : 
+
+    ID                              CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    DISEASE                         CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    CODE_LETTER                     CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    CODE_FROM                       CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    CODE_TO                         CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+
+
+ LOG file opened at 01/30/21 10:35:40
+
+Field Definitions for table ICD9_INDEX
+  Record format DELIMITED, delimited by 
+
+  Data in file has same endianness as the platform
+  Rows with all null fields are accepted
+
+  Fields in Data Source: 
+
+    ID                              CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    DISEASE                         CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    CODE_LETTER                     CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    CODE_FROM                       CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    CODE_TO                         CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+
+
+ LOG file opened at 01/30/21 10:35:40
+
+Field Definitions for table ICD9_INDEX
+  Record format DELIMITED, delimited by 
+
+  Data in file has same endianness as the platform
+  Rows with all null fields are accepted
+
+  Fields in Data Source: 
+
+    ID                              CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    DISEASE                         CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    CODE_LETTER                     CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    CODE_FROM                       CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    CODE_TO                         CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+
+
+ Fichier LOG ouvert à 02/06/21 18:38:11
+
+Définitions de champ pour la table ICD9_INDEX
+  Format d'enregistrement DELIMITED, délimité par 
+
+  Les données du fichier ont le même format endian que la plate-forme
+  Les lignes avec tous les champs null sont acceptées
+
+  Champs dans la source de données : 
+
+    ID                              CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    DISEASE                         CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    CODE_LETTER                     CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    CODE_FROM                       CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    CODE_TO                         CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+
+
+ Fichier LOG ouvert à 02/06/21 18:39:48
+
+Définitions de champ pour la table ICD9_INDEX
+  Format d'enregistrement DELIMITED, délimité par 
+
+  Les données du fichier ont le même format endian que la plate-forme
+  Les lignes avec tous les champs null sont acceptées
+
+  Champs dans la source de données : 
+
+    ID                              CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    DISEASE                         CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    CODE_LETTER                     CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    CODE_FROM                       CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    CODE_TO                         CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+
+
+ Fichier LOG ouvert à 02/06/21 18:39:48
+
+Définitions de champ pour la table ICD9_INDEX
+  Format d'enregistrement DELIMITED, délimité par 
+
+  Les données du fichier ont le même format endian que la plate-forme
+  Les lignes avec tous les champs null sont acceptées
+
+  Champs dans la source de données : 
+
+    ID                              CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    DISEASE                         CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    CODE_LETTER                     CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    CODE_FROM                       CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    CODE_TO                         CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+
+
+ Fichier LOG ouvert à 02/06/21 18:39:48
+
+Définitions de champ pour la table ICD9_INDEX
+  Format d'enregistrement DELIMITED, délimité par 
+
+  Les données du fichier ont le même format endian que la plate-forme
+  Les lignes avec tous les champs null sont acceptées
+
+  Champs dans la source de données : 
+
+    ID                              CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    DISEASE                         CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    CODE_LETTER                     CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    CODE_FROM                       CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    CODE_TO                         CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+
+
+ Fichier LOG ouvert à 02/06/21 18:39:48
+
+Définitions de champ pour la table ICD9_INDEX
+  Format d'enregistrement DELIMITED, délimité par 
+
+  Les données du fichier ont le même format endian que la plate-forme
+  Les lignes avec tous les champs null sont acceptées
+
+  Champs dans la source de données : 
+
+    ID                              CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    DISEASE                         CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    CODE_LETTER                     CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    CODE_FROM                       CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    CODE_TO                         CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+
+
+ Fichier LOG ouvert à 02/06/21 18:39:48
+
+Définitions de champ pour la table ICD9_INDEX
+  Format d'enregistrement DELIMITED, délimité par 
+
+  Les données du fichier ont le même format endian que la plate-forme
+  Les lignes avec tous les champs null sont acceptées
+
+  Champs dans la source de données : 
+
+    ID                              CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    DISEASE                         CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    CODE_LETTER                     CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    CODE_FROM                       CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    CODE_TO                         CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+
+
+ Fichier LOG ouvert à 02/06/21 18:39:48
+
+Définitions de champ pour la table ICD9_INDEX
+  Format d'enregistrement DELIMITED, délimité par 
+
+  Les données du fichier ont le même format endian que la plate-forme
+  Les lignes avec tous les champs null sont acceptées
+
+  Champs dans la source de données : 
+
+    ID                              CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    DISEASE                         CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    CODE_LETTER                     CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    CODE_FROM                       CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    CODE_TO                         CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+
+
+ Fichier LOG ouvert à 02/06/21 18:50:40
+
+Définitions de champ pour la table ICD9_INDEX
+  Format d'enregistrement DELIMITED, délimité par 
+
+  Les données du fichier ont le même format endian que la plate-forme
+  Les lignes avec tous les champs null sont acceptées
+
+  Champs dans la source de données : 
+
+    ID                              CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    DISEASE                         CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    CODE_LETTER                     CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    CODE_FROM                       CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    CODE_TO                         CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+
+
+ Fichier LOG ouvert à 02/06/21 18:51:16
+
+Définitions de champ pour la table ICD9_INDEX
+  Format d'enregistrement DELIMITED, délimité par 
+
+  Les données du fichier ont le même format endian que la plate-forme
+  Les lignes avec tous les champs null sont acceptées
+
+  Champs dans la source de données : 
+
+    ID                              CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    DISEASE                         CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    CODE_LETTER                     CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    CODE_FROM                       CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    CODE_TO                         CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+
+
+ Fichier LOG ouvert à 02/06/21 18:51:16
+
+Définitions de champ pour la table ICD9_INDEX
+  Format d'enregistrement DELIMITED, délimité par 
+
+  Les données du fichier ont le même format endian que la plate-forme
+  Les lignes avec tous les champs null sont acceptées
+
+  Champs dans la source de données : 
+
+    ID                              CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    DISEASE                         CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    CODE_LETTER                     CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    CODE_FROM                       CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    CODE_TO                         CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+
+
+ Fichier LOG ouvert à 02/06/21 18:51:17
+
+Définitions de champ pour la table ICD9_INDEX
+  Format d'enregistrement DELIMITED, délimité par 
+
+  Les données du fichier ont le même format endian que la plate-forme
+  Les lignes avec tous les champs null sont acceptées
+
+  Champs dans la source de données : 
+
+    ID                              CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    DISEASE                         CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    CODE_LETTER                     CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    CODE_FROM                       CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    CODE_TO                         CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+
+
+ Fichier LOG ouvert à 02/06/21 18:51:17
+
+Définitions de champ pour la table ICD9_INDEX
+  Format d'enregistrement DELIMITED, délimité par 
+
+  Les données du fichier ont le même format endian que la plate-forme
+  Les lignes avec tous les champs null sont acceptées
+
+  Champs dans la source de données : 
+
+    ID                              CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    DISEASE                         CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    CODE_LETTER                     CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    CODE_FROM                       CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    CODE_TO                         CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+
+
+ Fichier LOG ouvert à 02/06/21 18:51:17
+
+Définitions de champ pour la table ICD9_INDEX
+  Format d'enregistrement DELIMITED, délimité par 
+
+  Les données du fichier ont le même format endian que la plate-forme
+  Les lignes avec tous les champs null sont acceptées
+
+  Champs dans la source de données : 
+
+    ID                              CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    DISEASE                         CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    CODE_LETTER                     CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    CODE_FROM                       CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    CODE_TO                         CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+
+
+ Fichier LOG ouvert à 02/06/21 18:51:17
+
+Définitions de champ pour la table ICD9_INDEX
+  Format d'enregistrement DELIMITED, délimité par 
+
+  Les données du fichier ont le même format endian que la plate-forme
+  Les lignes avec tous les champs null sont acceptées
+
+  Champs dans la source de données : 
+
+    ID                              CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    DISEASE                         CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    CODE_LETTER                     CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    CODE_FROM                       CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+    CODE_TO                         CHAR (255)
+      Terminé par ","
+      Délimité par """ et """
+      Ajustement du blanc identique à SQL Loader
+
+
+ LOG file opened at 02/06/21 20:55:37
+
+Field Definitions for table ICD9_INDEX
+  Record format DELIMITED, delimited by 
+
+  Data in file has same endianness as the platform
+  Rows with all null fields are accepted
+
+  Fields in Data Source: 
+
+    ID                              CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    DISEASE                         CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    CODE_LETTER                     CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    CODE_FROM                       CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    CODE_TO                         CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+
+
+ LOG file opened at 02/06/21 20:55:37
+
+Field Definitions for table ICD9_INDEX
+  Record format DELIMITED, delimited by 
+
+  Data in file has same endianness as the platform
+  Rows with all null fields are accepted
+
+  Fields in Data Source: 
+
+    ID                              CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    DISEASE                         CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    CODE_LETTER                     CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    CODE_FROM                       CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    CODE_TO                         CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
