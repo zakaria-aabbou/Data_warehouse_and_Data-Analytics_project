@@ -6,7 +6,7 @@ Diabetes mellitus (DS) is a chronic disease where the blood has high sugar level
 
 Readmission to hospital is an indicator of the quality of care and a factor in the increase in the cost of health care. Like other chronic diseases, diabetes is associated with a higher risk of hospital readmission. In this research, we will build a DataWarehouse from transactional data provided by "Center for Clinical and Translational Research". Next, we evaluate several machine learning approaches to predict the likelihood of diabetic patients re-admission to hospital. The dataset used for this study contains more than 100,000 diabetic patient data and 55 variables, including length of stay, insulin, and inpatient visits to US hospitals. We use several pre-processing techniques and study the performance of different models. Important variables that contribute to the analysis are number of hospital patients, length of stay, number of medications, number of diagnoses, and age. The results demonstrate the viability of techniques to better understand the factors influencing readmission to hospital.
 
-** Tools and technologies used: **
+**Tools and technologies used:**
 
 * DataWarhouse: Oracle, PL/SQL
 * IDE: SQL developer, Jupyter Notebook
