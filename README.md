@@ -5,6 +5,7 @@ et dans le cadre du projet de fin de formation, nous sommes amenés à concevoir
 développer un système décisionnel (DataWarehouse) sur le diabète afin de prédire les
 réadmissions des patients diabétiques et appuyer la prise de décisions dans le secteur de la
 santé.
+
 Le diabète sucré (DS) est une maladie chronique où le sang a un taux de sucre élevé. Cela
 peut survenir lorsque le pancréas ne produit pas suffisamment d'insuline ou lorsque le corps
 ne peut pas utiliser efficacement l'insuline qu'il produit (OMS). Le diabète est une maladie
@@ -19,6 +20,7 @@ se sont de plus en plus concentrés sur les taux de réadmission à 30 jours pou
 complexité de leurs populations de patients et améliorer la qualité. Les taux de réadmission
 à 30 jours pour les patients hospitalisés atteints de DM se situent entre 14,4 et 22,7%, bien
 plus élevé que le taux de tous les patients hospitalisés (8,5 à 13,5%).
+
 La réadmission à l’hôpital est un indicateur de la qualité des soins et un facteur de
 l’augmentation du coût des soins de santé. Comme d’autres maladies chroniques, le diabète
 est associé à un risque plus élevé de réadmission à l’hôpital. Dans cette recherche, nous
@@ -34,7 +36,7 @@ patients hospitalisés, la durée du séjour, le nombre de médicaments, le nomb
 diagnostics et l’âge. Les résultats démontrent la viabilité des techniques permettant de
 mieux comprendre les facteurs influençant la réadmission à l’hôpital.
 
-- Outils et technologies utilisés:
+**Outils et technologies utilisés:**
 
 * DataWarhouse: Oracle, PL/SQL
 * IDE: SQL developer, Jupyter Notebook
