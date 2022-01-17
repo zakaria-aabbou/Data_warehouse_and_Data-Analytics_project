@@ -27,7 +27,7 @@ Readmission to hospital is an indicator of the quality of care and a factor in t
   <h2>Univariate charts: age, max_glu_serum, a1cresult:</h2>
   <img alt="Demo" src="https://github.com/zakaria-aabbou/DataWarehouse_project/blob/main/screens/5.png" />
   <h2>Primary and secondary diagnosis:</h2>
-  <img alt="Demo" src="https://github.com/zakaria-aabbou/DataWarehouse_project/blob/main/screens/6.png" />
+  <img alt="Demo" src="https://github.com/zakaria-aabbou/DataWarehouse_project/blob/main/screens/6.jpg" />
   <h2>Important drugs against readmission:</h2>
   <img alt="Demo" src="https://github.com/zakaria-aabbou/DataWarehouse_project/blob/main/screens/7.png" />
 </div>
