@@ -13,3 +13,21 @@ Readmission to hospital is an indicator of the quality of care and a factor in t
 * Visualisation: Python (Matplotlib and Seaborn)
 * Modèles: Logistic Regression, Decision Tree, Random Forest, SVM
 * Biblios: Numpy, Pandas, Seaborn, Matplotlib, Scikit-learn
+
+** Screens: **
+<div align="center">
+  <h2>Work summary:</h2>
+  <img alt="Demo" src="https://github.com/zakaria-aabbou/DataWarehouse_project/blob/main/screens/1.png" />
+  <h2>Normalized E/A data model:</h2>
+  <img alt="Demo" src="https://github.com/zakaria-aabbou/DataWarehouse_project/blob/main/screens/2.png" />
+  <h2>Data Warehouse dimensional model: </h2>
+  <img alt="Demo" src="https://github.com/zakaria-aabbou/DataWarehouse_project/blob/main/screens/3.png" />
+  <h2>Univariate diagrams: race, sex, diabetes: </h2>
+  <img alt="Demo" src="https://github.com/zakaria-aabbou/DataWarehouse_project/blob/main/screens/4.png" />
+  <h2>Univariate charts: age, max_glu_serum, a1cresult:</h2>
+  <img alt="Demo" src="https://github.com/zakaria-aabbou/DataWarehouse_project/blob/main/screens/5.png" />
+  <h2>Primary and secondary diagnosis:</h2>
+  <img alt="Demo" src="https://github.com/zakaria-aabbou/DataWarehouse_project/blob/main/screens/6.png" />
+  <h2>Important drugs against readmission:</h2>
+  <img alt="Demo" src="https://github.com/zakaria-aabbou/DataWarehouse_project/blob/main/screens/7.png" />
+</div>
