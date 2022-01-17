@@ -14,8 +14,8 @@ Readmission to hospital is an indicator of the quality of care and a factor in t
 * Modèles: Logistic Regression, Decision Tree, Random Forest, SVM
 * Biblios: Numpy, Pandas, Seaborn, Matplotlib, Scikit-learn
 
-** Screens: **
-<div align="center">
+**Screens:**
+<div align="left">
   <h2>Work summary:</h2>
   <img alt="Demo" src="https://github.com/zakaria-aabbou/DataWarehouse_project/blob/main/screens/1.png" />
   <h2>Normalized E/A data model:</h2>
