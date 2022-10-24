@@ -1,4 +1,4 @@
-# DataWarehouse_project
+# Data-Warehouse_Data-Analytics_project
 
 As part of the course (DataWarehouse) taught by our dear teacher Guénaël Cabanes, and as part of End of Course Project, we have to design and develop a decision-making system (DataWarehouse) on diabetes in order to predict patient readmissions diabetics and support decision-making in the health sector.
 
