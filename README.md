@@ -21,7 +21,7 @@ Readmission to hospital is an indicator of the quality of care and a factor in t
 * IDE: SQL developer, Jupyter Notebook
 * Visualisation: Python (Matplotlib and Seaborn)
 * Modèles: Logistic Regression, Decision Tree, Random Forest, SVM
-* Biblios: Numpy, Pandas, Seaborn, Matplotlib, Scikit-learn
+* Libraries: Numpy, Pandas, Seaborn, Matplotlib, Scikit-learn
 
 **Screens:**
 <div align="left">
